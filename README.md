@@ -7,7 +7,7 @@ Run this project by this command :
 2. `npm start`
 3. `localhost:3000`
 
-**Creating database and table**
+**Creating database and collection**
 
 ```
 use TEST;
