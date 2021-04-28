@@ -1,5 +1,5 @@
 # NodeJs MongoDB
-Node.js CRUD application using MongoDB
+CRUD operations using Node.js, MongoDB
 
 Run this project by this command :
 
